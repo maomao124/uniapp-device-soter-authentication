@@ -1,0 +1,1 @@
+<view><button type="primary" data-event-opts="{{[['tap',[['button1',['$event']]]]]}}" bindtap="__e">开始人脸认证</button><button type="primary" data-event-opts="{{[['tap',[['button2',['$event']]]]]}}" bindtap="__e">开始指纹识别</button><button type="primary" data-event-opts="{{[['tap',[['button3',['$event']]]]]}}" bindtap="__e">获取本机支持的生物认证方式</button></view>

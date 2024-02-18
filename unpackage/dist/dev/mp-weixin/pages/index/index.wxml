@@ -1,0 +1,1 @@
+<view class="content"><block wx:for="{{urlList}}" wx:for-item="url" wx:for-index="__i0__"><view><button type="primary" data-event-opts="{{[['tap',[['to',['$0'],[[['urlList','',__i0__]]]]]]]}}" bindtap="__e">{{url}}</button></view></block></view>
